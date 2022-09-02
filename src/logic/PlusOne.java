@@ -30,10 +30,8 @@ public class PlusOne {
 					digits[j] += 1;
 					return digits;
 				}
-				
 			}
 		}
 		return null;
 	}
-
 }
